@@ -24,23 +24,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://github.com/ujwalvinay/WeatherBot/blob/media/WEEB.png" alt="Logo" width="160" height="160">
+  <a >
+    <img src="https://github.com/ujwalvinay/WeatherBot/blob/media/WEEB.png" alt="Logo" width="320" height="320">
   </a>
-
-  <h3 align="center">Weather BOT</h3>
-
-  <p align="center">
-    using Open weather and Discord API
-    <br />
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
 </div>
 
 
