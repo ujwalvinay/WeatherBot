@@ -84,13 +84,7 @@ These are the things used to develop this Bot
 
 * [Discord API](https://discord.com/developers/docs/intro)
 * [Open weather API](https://openweathermap.org/api)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-
+* [Python3](https://www.python.org/download/releases/3.0/)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
