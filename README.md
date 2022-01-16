@@ -71,7 +71,7 @@ Here's why:
 * Open Weather is simple and free API
 * You can generate a lot of projects based on this one
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+You can fork this project from my repo and customise it as you want
 
 Use the `BLANK_README.md` to get started.
 
@@ -80,11 +80,10 @@ Use the `BLANK_README.md` to get started.
 
 
 ### Built With
+These are the things used to develop this Bot
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
+* [Discord API](https://discord.com/developers/docs/intro)
+* [Open weather API](https://openweathermap.org/api)
 * [Vue.js](https://vuejs.org/)
 * [Angular](https://angular.io/)
 * [Svelte](https://svelte.dev/)
