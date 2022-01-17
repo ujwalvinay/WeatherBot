@@ -99,18 +99,23 @@ Download Python3
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+Follow these instructions to run the bot in your system
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Get a free API Key at [https://openweathermap.org/api](https://openweathermap.org/api)
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/ujwalvinay/WeatherBot
    ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
+3.  Download Python3
+* Python3
+  ```sh
+  sudo apt-get install python3
+  ```
+4. *Discord API
+  ```sh
+  pip install discord.py
+  ```
+5. Enter your API in `config.js`
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```
