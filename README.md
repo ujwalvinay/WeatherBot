@@ -92,6 +92,10 @@ Download Python3
   ```sh
   sudo apt-get install python3
   ```
+  *Discord API
+  ```sh
+  pip install discord.py
+  ```
 
 ### Installation
 
