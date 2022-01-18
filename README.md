@@ -131,7 +131,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@vinayujwal](https://twitter.com/vinayujwal) - ujwalvinay@ieee.org
+Ujwal Vinay - [@vinayujwal](https://twitter.com/vinayujwal) - ujwalvinay@ieee.org
 
 Project Link: [https://github.com/ujwalvinay/WeatherBot](https://github.com/ujwalvinay/WeatherBot)
 
